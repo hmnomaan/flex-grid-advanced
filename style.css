@@ -2,6 +2,11 @@ h1 {
     font-size: 3em;
 }
 
-button {
+a {
     text-decoration: none;
+}
+
+.welcome {
+    justify-content: center;
+    margin-left: 100px;
 }
